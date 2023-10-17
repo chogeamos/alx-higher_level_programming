@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 ================================
 How to Use 5-text_indentation.py
+=======
+w to Use 5-text_indentation.py
+>>>>>>> 3f52e609345abf67f00ec536ae65dc038f231eb0
 ================================
 
 This module defines a text-indentation function ``text_indentation(text)``.
